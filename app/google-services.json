@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1090617535095",
+    "project_id": "namaste1-191a1",
+    "storage_bucket": "namaste1-191a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090617535095:android:d86053adaa0963da5db472",
+        "android_client_info": {
+          "package_name": "com.example.namaste1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090617535095-fnnpqdcsrtjb69il51pnubfkbob65tsg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.namaste1",
+            "certificate_hash": "e19c1d62cf231bd26740e4f52912cad83a716ffb"
+          }
+        },
+        {
+          "client_id": "1090617535095-omtk2m9hmad8m4d0iv0olj38e1erlaa9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjH_zxBfsZbbN68DuYOn1okk0BpUYUGzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090617535095-omtk2m9hmad8m4d0iv0olj38e1erlaa9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
